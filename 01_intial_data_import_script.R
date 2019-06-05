@@ -30,8 +30,10 @@ geom_boxplot(position = "dodge2")
 df %>%
   select(area, region) %>%
   group_by(region) %>%
-  summarize(total_area = sum(area)) -> df.sums
+  summarize(total_area = sum(area, na.rm = TRUE)) -> df.sums
+
+print(df.sums)
 
 x11()
 ggplot(df.sums, aes(x = region, y = total_area))+
-  geom_bar(stat = "bin")
+  geom_bar(stat = "identity")
