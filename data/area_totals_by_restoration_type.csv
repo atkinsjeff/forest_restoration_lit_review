@@ -1,0 +1,53 @@
+﻿restorationtype,time.period,area,x
+Natural Regeneration,2000-2010,706250.6,a
+Natural Regeneration,2011-2013,406636.3,a
+Natural Regeneration,2014-2019,42118.72,a
+Natural Regeneration,2000-2019,1155006,b
+Assisted Restoration,2000-2010,265700.3,a
+Assisted Restoration,2011-2013,15411.9,a
+Assisted Restoration,2014-2019,48718.5,a
+Assisted Restoration,2000-2019,329830.7,b
+Unspecified Regenration,2000-2010,12676607,a
+Unspecified Regenration,2011-2013,444149,a
+Unspecified Regenration,2014-2019,35514,a
+Unspecified Regenration,2000-2019,13156270,b
+Active Restoration,2000-2010,4662196,a
+Active Restoration,2011-2013,1107379,a
+Active Restoration,2014-2019,45575,a
+Active Restoration,2000-2019,5815150,b
+Mixed Timber Plantation,2000-2010,4150849,a
+Mixed Timber Plantation,2011-2013,327.75,a
+Mixed Timber Plantation,2014-2019,19529,a
+Mixed Timber Plantation,2000-2019,4170706,b
+Mono Timber Plantation,2000-2010,264565.1,a
+Mono Timber Plantation,2011-2013,460,a
+Mono Timber Plantation,2014-2019,2630,a
+Mono Timber Plantation,2000-2019,267655.1,b
+Woodlot,2000-2010,7041667,a
+Woodlot,2011-2013,949192,a
+Woodlot,2014-2019,85643.5,a
+Woodlot,2000-2019,8076503,b
+Agroforestry,2000-2010,4446705,a
+Agroforestry,2011-2013,724498,a
+Agroforestry,2014-2019,36158,a
+Agroforestry,2000-2019,5207361,b
+Agroforestry (Multistrata),2000-2010,0,a
+Agroforestry (Multistrata),2011-2013,275,a
+Agroforestry (Multistrata),2014-2019,4000,a
+Agroforestry (Multistrata),2000-2019,4275,b
+Intercropping,2000-2010,617.9,a
+Intercropping,2011-2013,0,a
+Intercropping,2014-2019,0,a
+Intercropping,2000-2019,617.9,b
+Silvopastoral,2000-2010,29259.6,a
+Silvopastoral,2011-2013,751,a
+Silvopastoral,2014-2019,64850,a
+Silvopastoral,2000-2019,94860.6,b
+Transitional,2000-2010,0,a
+Transitional,2011-2013,0,a
+Transitional,2014-2019,0,a
+Transitional,2000-2019,0,b
+Afforestation,2000-2010,5454358,a
+Afforestation,2011-2013,711459,a
+Afforestation,2014-2019,0,a
+Afforestation,2000-2019,6165817,b

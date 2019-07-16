@@ -1,0 +1,57 @@
+prior,time.period,area,x
+agriculture,2000-2010,2412,a
+agriculture,2011-2013,0,a
+agriculture,2014-2019,0,a
+agriculture,2000-2019,2412,b
+cropland,2000-2010,0,a
+cropland,2011-2013,0,a
+cropland,2014-2019,0,a
+cropland,2000-2019,0,b
+pasture,2000-2010,8047505,a
+pasture,2011-2013,1420460,a
+pasture,2014-2019,93780,a
+pasture,2000-2019,9561745,b
+agro-silvo-pastoral,2000-2010,1801209,a
+agro-silvo-pastoral,2011-2013,382,a
+agro-silvo-pastoral,2014-2019,0,a
+agro-silvo-pastoral,2000-2019,1801591,b
+shifting cultivation/fallow,2000-2010,1050857,a
+shifting cultivation/fallow,2011-2013,704112.8,a
+shifting cultivation/fallow,2014-2019,162932,a
+shifting cultivation/fallow,2000-2019,1917902,b
+aquaculture,2000-2010,83493,a
+aquaculture,2011-2013,478,a
+aquaculture,2014-2019,50024,a
+aquaculture,2000-2019,133995,b
+tree monocrop,2000-2010,98616.92,a
+tree monocrop,2011-2013,0,a
+tree monocrop,2014-2019,0,a
+tree monocrop,2000-2019,98616.92,b
+clearcut,2000-2010,84028.15,a
+clearcut,2011-2013,1110,a
+clearcut,2014-2019,0,a
+clearcut,2000-2019,85138.15,b
+degraded,2000-2010,41756.1,a
+degraded,2011-2013,302.3,a
+degraded,2014-2019,82650.5,a
+degraded,2000-2019,124708.9,b
+extraction,2000-2010,10463747,a
+extraction,2011-2013,6200,a
+extraction,2014-2019,111436,a
+extraction,2000-2019,10581383,b
+fire,2000-2010,954304.4,a
+fire,2011-2013,6160,a
+fire,2014-2019,88300,a
+fire,2000-2019,1048764,b
+non-fire disturbance,2000-2010,15374,a
+non-fire disturbance,2011-2013,0,a
+non-fire disturbance,2014-2019,78249,a
+non-fire disturbance,2000-2019,93623,b
+marginal,2000-2010,6945,a
+marginal,2011-2013,0,a
+marginal,2014-2019,10231.22,a
+marginal,2000-2019,17176.22,b
+other,2000-2010,4026215,a
+other,2011-2013,40,a
+other,2014-2019,15821.22,a
+other,2000-2019,4042076,b

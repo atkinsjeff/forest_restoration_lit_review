@@ -1,0 +1,65 @@
+motive,time.period,area,x
+ecosystem function,2000-2010,4850335,a
+ecosystem function,2011-2013,1417441,a
+ecosystem function,2014-2019,189012.7,a
+ecosystem function,2000-2019,6456789,b
+water provision and quality,2000-2010,4217349,a
+water provision and quality,2011-2013,34663.65,a
+water provision and quality,2014-2019,171734,a
+water provision and quality,2000-2019,4423747,b
+biodiversity and habitat recovery,2000-2010,567662.1,a
+biodiversity and habitat recovery,2011-2013,709265.9,a
+biodiversity and habitat recovery,2014-2019,180493,a
+biodiversity and habitat recovery,2000-2019,1457421,b
+ecological connectivity,2000-2010,3978779,a
+ecological connectivity,2011-2013,6911,a
+ecological connectivity,2014-2019,98731,a
+ecological connectivity,2000-2019,4084421,b
+invasive species,2000-2010,260.7,a
+invasive species,2011-2013,52.3,a
+invasive species,2014-2019,15107.72,a
+invasive species,2000-2019,15420.7,b
+carbon sequestration,2000-2010,4448508,a
+carbon sequestration,2011-2013,693104.8,a
+carbon sequestration,2014-2019,94949,a
+carbon sequestration,2000-2019,5236562,b
+soil fertility,2000-2010,4879046,a
+soil fertility,2011-2013,714113,a
+soil fertility,2014-2019,4829,a
+soil fertility,2000-2019,5597988,b
+risk mitigation,2000-2010,7667237,a
+risk mitigation,2011-2013,720578.9,a
+risk mitigation,2014-2019,62846.2,a
+risk mitigation,2000-2019,8450662,b
+reclaimation,2000-2010,3374,a
+reclaimation,2011-2013,0,a
+reclaimation,2014-2019,4552,a
+reclaimation,2000-2019,7926,b
+regulatory,2000-2010,2477370,a
+regulatory,2011-2013,673995.9,a
+regulatory,2014-2019,35468,a
+regulatory,2000-2019,3186834,b
+ecosystem services,2000-2010,1064406,a
+ecosystem services,2011-2013,8991,a
+ecosystem services,2014-2019,830,a
+ecosystem services,2000-2019,1074227,b
+agroforestry/commercial,2000-2010,7036031,a
+agroforestry/commercial,2011-2013,16847,a
+agroforestry/commercial,2014-2019,143450,a
+agroforestry/commercial,2000-2019,7196328,b
+local employement,2000-2010,6765937,a
+local employement,2011-2013,725456,a
+local employement,2014-2019,176019,a
+local employement,2000-2019,7667412,b
+recreation,2000-2010,36956.2,a
+recreation,2011-2013,1593,a
+recreation,2014-2019,44001,a
+recreation,2000-2019,82550.2,b
+other,2000-2010,1241524,a
+other,2011-2013,22,a
+other,2014-2019,110,a
+other,2000-2019,1241656,b
+unknown,2000-2010,9548674,a
+unknown,2011-2013,1472517,a
+unknown,2014-2019,42700,a
+unknown,2000-2019,11063891,b
